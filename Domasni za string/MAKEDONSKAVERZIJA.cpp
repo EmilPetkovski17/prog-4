@@ -119,7 +119,7 @@ int main() {
     Trie* koren = new Trie();
     map<char,int> mapaBukvi = napraviMapa();
 
-    string pateka = "./mkd-100k.txt";
+    string pateka = "MKRECNIK";
     ifstream datoteka(pateka);
 
     vector<string> zborovi;
@@ -140,3 +140,4 @@ int main() {
 
     return 0;
 }
+
