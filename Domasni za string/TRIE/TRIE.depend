@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1766706793 source:c:\users\emil\desktop\trie\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<map>
+
